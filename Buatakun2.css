@@ -1,0 +1,80 @@
+*{margin:0px auto;}
+.buatakun {
+  text-align: center;
+}
+#gambar {
+  width:100px;
+  border: 3px solid #CCCCCC;
+  align:center;
+}
+#nama {
+   width: 300px;
+   padding:5px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#ttl {
+   width: 300px;
+   padding:5px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#nik {
+   width: 300px;
+   padding:5px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#kk {
+   width: 300px;
+   padding:5px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#mail {
+   width: 300px;
+   padding:5px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#hp {
+   width: 300px;
+   padding:5px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#alamat {
+   width: 270px;
+   padding:20px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#lanjut {
+width:120px;
+background-color:#CCCCCC;
+color:black;
+font-family: arial;
+padding:10px;
+font-size:13px;
+font-weight: bold;
+cursor:pointer;
+margin-bottom:5px;
+}
+
+#footer{
+    height:15px;
+    line-height:50px;
+    background:#333;
+    color:#fff;
+
+    position:absolute;
+    bottom:0px;
+    width:100%;
+}

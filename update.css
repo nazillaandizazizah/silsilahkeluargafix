@@ -1,0 +1,126 @@
+*{margin:0px auto;}
+
+#Silsilahkeluarga{
+padding-bottom: 10px;
+align-content: center;
+}
+#masukkan{
+  width: 500px;
+  padding: 8px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: 2px;
+  margin-left: 140px;
+
+}
+#search{
+  width: 30px;
+  margin-right: 450px;
+}
+#namalengkap{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#gambar {
+  width:100px;
+  border: 3px solid #CCCCCC;
+  align:center;
+}
+#nik{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#namasuamiistri{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#namaayah{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#namaibu{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#nohp{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#alamat{
+  width: 270px;
+   padding:20px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: thin;
+}
+#email{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#batal{
+  width: 120px;
+  background-color: #CCCCCC;
+  color: black;
+  font-family: arial;
+  padding: 10px;
+  font-size: 13px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+#lanjut{
+  width: 120px;
+  background-color: #CCCCCC;
+  color: black;
+  font-family: arial;
+  padding: 10px;
+  font-size: 13px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #666666;
+}
+
+li {
+  float: left;
+  margin-left: 220px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}

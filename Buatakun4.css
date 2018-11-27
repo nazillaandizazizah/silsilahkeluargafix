@@ -1,0 +1,16 @@
+*{margin: 0px auto;}
+.buatakun{
+  text-align: center;
+}
+#buatp{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+}
+#ulangip{
+  width: 300px;
+  padding: 5px;
+  font-size: 16px;
+  border-color: #CCCCCC;
+}

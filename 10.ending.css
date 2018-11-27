@@ -1,0 +1,11 @@
+*{margin:0px auto;}
+
+#gambar{
+  width: 400px;
+  align: center;
+}
+#back{
+  width: 40px;
+  align: center;
+  background-color: #3BACCA;
+}

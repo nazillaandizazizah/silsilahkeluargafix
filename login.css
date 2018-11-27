@@ -1,0 +1,40 @@
+*{margin:0px auto;}
+
+#masukan {
+   width: 500px;
+   padding:8px;
+   font-size:16px;
+   border-color: #CCCCCC;
+   border-width: 2px;
+}
+#search {
+    width:30px;
+  }
+#gambar {
+    width:400px;
+    align:center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #666666;
+}
+
+li {
+    float: left;
+    margin-left: 220px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}

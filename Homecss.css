@@ -1,0 +1,51 @@
+body {
+  background-color: #3BACCA;
+  width: auto;
+  margin: auto;
+}
+#judul {
+  font-size: 120px;
+}
+#kk {
+  margin-top: 10px;
+  width: 300px;
+  padding:5px;
+  font-size:16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+#pass {
+  margin-top: 5px;
+  width: 300px;
+  padding:5px;
+  font-size:16px;
+  border-color: #CCCCCC;
+  border-width: thin;
+}
+.abc{
+  text-align: center;
+}
+
+#gambar {
+  width:500px;
+  text-align: center;
+}
+
+.buat {
+  text-align: left;
+  margin-left: 530px;
+  color: black;
+}
+
+#login {
+  width:80px;
+  background-color:#60A4B6;
+  color:white;
+  font-family: arial;
+  padding:10px;
+  font-size:13px;
+  font-weight: bold;
+  cursor:pointer;
+  margin-left: 400px;
+  }
+}
